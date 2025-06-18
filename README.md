@@ -1,1 +1,1 @@
-# BreastCancerPrediction
+To leverag ensemble machine learning methods to enhance the early detection and diagnosis of breast cancer. By combining the predictive power of multiple models—Random Forest, Gradient Boosting, and Voting Classifiers—the goal is to increase accuracy, reduce false diagnoses, and create a tool that can assist medical professionals in medical domain.
